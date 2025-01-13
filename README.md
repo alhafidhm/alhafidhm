@@ -6,8 +6,8 @@ I'm a **Web Developer** passionate about building modern, interactive, and respo
 
 ## 🚀 My Skills:
 
-- **Frontend Development:** HTML, CSS, JavaScript, Vue JS.
-- **Backend Development:** PHP, Laravel, CodeIgniter.
+- **Frontend Development:** HTML, CSS, JavaScript.
+- **Backend Development:** PHP, Laravel.
 - **Database:** MySQL, SQLite, Firebase.
 - **Tools & Technologies:** Git, Github, Git Kraken, TailwindCSS, Bootstrap.
 
