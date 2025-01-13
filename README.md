@@ -23,11 +23,11 @@ I'm a **Web Developer** passionate about building modern, interactive, and respo
 
 ## 📫 Get in Touch:
 
-[![website](./globe-light.svg)](https://rzfahlevi.netlify.app#gh-light-mode-only)
-[![website](./globe-dark.svg)](https://rzfahlevi.netlify.app#gh-dark-mode-only)
+[![website](./globe-light.svg)](https://alhafidhm.github.io/portfolio-alhafidh#gh-light-mode-only)
+[![website](./globe-dark.svg)](https://alhafidhm.github.io/portfolio-alhafidh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://linkedin.com/in/reza-fahlevi-501b5b219#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://linkedin.com/in/reza-fahlevi-501b5b219#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://linkedin.com/in/al-hafidh-mailisman#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://linkedin.com/in/al-hafidh-mailisman#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/rz.fahlevi10#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/rz.fahlevi10#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://instagram.com/alhafidhm#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://instagram.com/alhafidhm#gh-dark-mode-only)
